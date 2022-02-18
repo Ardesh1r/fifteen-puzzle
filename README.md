@@ -2,7 +2,8 @@
 The puzzle game consists of 15 tiles that you have to arrange the numbers from 1 to 15.
 In the first row from the left, the numbers 1 to 4, in the second row the numbers 5 to 8, in the third row the numbers 9 to 12 and in the fourth row the numbers 13 to 15 should be arranged Respectively in a row.
 
-This game is coded using the following technology and can be displayed on all browsers.
+This game is coded using the following technologies and can be displayed on all browsers.
+---------
 ✔️ HTML5
 ✔️ CSS3
 ✔️ JavaScript
