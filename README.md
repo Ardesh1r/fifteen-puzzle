@@ -5,8 +5,11 @@ In the first row from the left, the numbers 1 to 4, in the second row the number
 This game is coded using the following technologies and can be displayed on all browsers.
 ---------
 ✔️ HTML5
+
 ✔️ CSS3
+
 ✔️ JavaScript
+
 ✔️ JQuery
 
 Besides, back in time, I was researching for a method to convert my code into one of the application development languages. Finally, I found Xamarin. 
