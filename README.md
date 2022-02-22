@@ -22,3 +22,5 @@ Xamarin is an open-source platform for building modern and performant applicatio
 
 
 ![Logo](https://github.com/Ardesh1r/fifteen-puzzle/blob/main/logo.jpg?raw=true)
+
+![Logo](https://github.com/Ardesh1r/fifteen-puzzle/blob/main/Screenshot-01.png?raw=true)
